@@ -5,7 +5,9 @@
 
 ## Some of my Github Stats
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=chysomm62 alt=chysomm62 /> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=chysomm62 alt=chysomm62 /> </p>
+
+![Profile views](https://gpvc.arturio.dev/[chysomm62])
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=chysomm62&show_icons=true&include_all_commits=true)](https://github.com/chysomm62/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chysomm62&layout=compact)](https://github.com/chysomm62/github-readme-stats)
