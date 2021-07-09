@@ -6,6 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chysomm62&theme=synthwave “Andres’ Top Languages Card”)
 
+<a href=”https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+
 <!--
 **chysomm62/chysomm62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
