@@ -2,7 +2,7 @@
 
 <img src="./images/header-image.jpg" alt="Header-image" width="100%"/>
 
-![Chysomm’ GitHub stats](https://github-readme-stats.vercel.app/api?username=chysomm62&theme=vision-friendly-dark&show_icons=true&count_private=true “Chysomm’ GutHub Stats”)
+![Chysomm’ GitHub stats](https://github-readme-stats.vercel.app/api?username=chysomm62&theme=synthwave&show_icons=true&count_private=true “chysomm’ GutHub Stats”)
 
 <!--
 **chysomm62/chysomm62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
