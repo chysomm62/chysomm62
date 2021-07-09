@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 I' Chisom
 
 <img src="./images/header-image.jpg" alt="Header-image" width="100%"/>
 
