@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-[![Header](https://raw.githubusercontent.com/chysomm62/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.chysomm62.github.io/)
+<img src="./images/header-image.jpg" alt="Header-image" />
 
 <!--
 **chysomm62/chysomm62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
