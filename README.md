@@ -6,6 +6,8 @@
 - ⚡ Fun fact: Studied Microbiology in the university
 - 🔭 I’m currently working on some REACTions
 - 🌱 I’m currently learning REACT
+- :woman_office_worker: Looking for INTERNSHIP/ENTRY LEVEL ROLES IN FRONT-END DEVELOPMENT
+- 👯 I’m looking to collaborate on SOME PROJECTS
 
 ### REACH ME ANYTIME
 
