@@ -1,6 +1,6 @@
-## Hello! Nice to have you here
+## Hello! Nice to have you here :love_you_gesture:
 
-### My name is Chisom, I am a Front-end developer. :woman_technologist: I like to convert web designs to scalable, responsive webpages. I am open for front-end internships or entry level jobs. I am a fast learner and like learning and trying out new things. I am currently learning react.
+<p> My name is Chisom, I am a Front-end developer. :woman_technologist: I like to convert web designs to scalable, responsive webpages. I am open for front-end internships or entry level jobs. I am a fast learner and like learning and trying out new things. I am currently learning react.</p>
 
 ## REACH ME ANYTIME
 
