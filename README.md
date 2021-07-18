@@ -20,6 +20,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chysomm62&theme=yeblu)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=chysomm62&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=chysomm62&show_icons=true&include_all_commits=true)](https://github.com/chysomm62/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chysomm62&show_icons=true&layout=compact)](https://github.com/chysomm62/github-readme-stats)
