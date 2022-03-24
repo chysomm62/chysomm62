@@ -4,9 +4,8 @@
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Studied Microbiology in the university
-- 🔭 I’m currently working on some REACTions
-- 🌱 I’m currently learning REACT
-- :woman_office_worker: Looking for INTERNSHIP/ENTRY LEVEL ROLES IN FRONT-END DEVELOPMENT
+- 🔭 I’m currently working on some REACT projects
+- :woman_office_worker: Looking to bring amazing ideas to life
 - 👯 I’m looking to collaborate on SOME PROJECTS
 
 ### REACH ME ANYTIME
@@ -30,14 +29,4 @@
 <!--
 **chysomm62/chysomm62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
