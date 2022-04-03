@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Studied Microbiology in the university
 - 🔭 I’m currently working on some REACT projects
 - :woman_office_worker: Looking to bring amazing ideas to life
-- 👯 I’m looking to collaborate on SOME PROJECTS
+- 👯 I’m looking to collaborate on JavaScript projects
 
 ### REACH ME ANYTIME
 
