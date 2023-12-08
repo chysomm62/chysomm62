@@ -1,6 +1,6 @@
 ## :wave:Hello! Nice to have you here :love_you_gesture:
 
-<p> My name is Chisom, I am a Front-end developer. :woman_technologist: I like to convert web designs to scalable, responsive webpages. I am open for front-end develoment level jobs. I am a fast learner and like learning and trying out new things.</p>
+<p> My name is Chisom, I am a Front-end developer. :woman_technologist: I like to convert web designs to scalable, responsive webpages. I am open for front-end develoment jobs. I am a fast learner and like learning and trying out new things.</p>
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Studied Microbiology in the university
