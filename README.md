@@ -1,6 +1,6 @@
 ## :wave:Hello! Nice to have you here :love_you_gesture:
 
-<p> My name is Chisom, I am a Front-end developer. :woman_technologist: I like to build amazing beautiful things. I am open for front-end develoment jobs. I can cook with NextJs.</p>
+<p> My name is Chisom, I am a ReactJs Front-end developer. :woman_technologist: I like to build amazing beautiful things. I am open for front-end develoment jobs. I can cook with NextJs.</p>
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Studied Microbiology in the university
