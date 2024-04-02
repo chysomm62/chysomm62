@@ -3,10 +3,9 @@
 <p> My name is Chisom, I am a ReactJs Front-end developer. :woman_technologist: I like to build amazing beautiful things. I am open for front-end develoment jobs. I can cook with NextJs.</p>
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Studied Microbiology in the university
-- 🔭 I’m currently working on some REACT projects
+  - 🔭 I’m currently working on some REACT projects
 - :woman_office_worker: Looking to bring amazing ideas to life
-- 👯 I’m looking to collaborate on JavaScript projects
+- 👯 I’m looking to collaborate on NextJs projects
 
 ### REACH ME ANYTIME
 
